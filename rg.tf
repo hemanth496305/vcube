@@ -1,2 +1,0 @@
-rgname
-location
